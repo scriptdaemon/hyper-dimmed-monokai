@@ -1,3 +1,5 @@
+ISC License (ISC)
+
 Copyright (c) 2018, Kenneth Williams <scriptdaemon@gmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose
